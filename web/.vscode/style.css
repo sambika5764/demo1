@@ -1,0 +1,23 @@
+#b{
+width: 100%;
+height: 400px;
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzHMDlwRCHOHZP_tX7jRYNxV8W8MpNEog45w&s);
+background-repeat: no-repeat;
+background-position: center;
+cursor: pointer;}
+
+
+#c{text-align: center;}
+
+#a{display: flex;
+background-color: black;
+width: 100%;
+height: 50px;
+color: white;
+justify-content: space-between;}
+
+#a1{width: 20%;}
+
+#a2{width: 20%;}
+
+#a3{width: 20%;}
